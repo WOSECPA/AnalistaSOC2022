@@ -1,0 +1,1 @@
+# AnalistaSOC2022
