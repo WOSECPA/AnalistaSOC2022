@@ -20,6 +20,6 @@
 
 7. ¿Qué tipo de red utilizaremos en virtualbox?
 *R: Utilizaremos una red NAT para que las máquinas de dicha red se puedan comunicar entre sí.
- Puedes referirte al apso 5 de la guía para ver un ejemplo de cómo debe quedar la configuración. Cabe mencionar que no utilizaremos modo puente o NAT, solo "red NAT".*
+ Puedes referirte al paso 5 de la guía para ver un ejemplo de cómo debe quedar la configuración. Cabe mencionar que no utilizaremos modo puente o NAT, solo "red NAT".*
 
 
